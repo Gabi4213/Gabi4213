@@ -1,5 +1,7 @@
 # Hi there my name is Gabi👋
-### I am a software Engineer, Youtuber and just a Nerd ###
+### I am a Software Engineer, Content Creator & Game Developer ###
+
+
 
 <!--
 **Gabi4213/Gabi4213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
