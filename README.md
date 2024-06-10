@@ -2,8 +2,9 @@
 ### I am a Software Engineer, Content Creator & Game Developer ###
 
 Here's a bit about me:
+
 -My name is Gabi, I am 22 years old currently studying Computer Games Programming while being a game developer/content creator on YouTube.
-- Ex Intern Gameplay Programmer at Microsoft/Xbox/Rare Studios working on Sea of Thieves.
+-Ex Intern Gameplay Programmer at Microsoft/Xbox/Rare Studios working on Sea of Thieves.
 -Previously Worked with LEGO, Logitech, Unity and Snapchat.
 
 
