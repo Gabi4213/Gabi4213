@@ -7,7 +7,19 @@ Here's a bit about me:
 * Ex Intern Gameplay Programmer at Microsoft/Xbox/Rare Studios working on Sea of Thieves.
 + Previously Worked with LEGO, Logitech, Unity and Snapchat.
 
- <img alt="c++" src="https://img.shields.io/badge/-C++-blue?logo=cplusplus" />
+Things I code with
+ <img alt="C++" src="https://img.shields.io/badge/-C++-blue?logo=cplusplus" />
+ <img alt="C#" src="https://img.shields.io/badge/-C#-764ABC?style=flat-square&logo=redux&logoColor=white" />
+ <img alt="HTML 5" src="https://img.shields.io/badge/-C++-blue?logo=cplusplus" />
+ <img alt="Python" src="https://img.shields.io/badge/-C++-blue?logo=cplusplus" />
+ <img alt="CSS" src="https://img.shields.io/badge/-C++-blue?logo=cplusplus" />
+ <img alt="Java" src="https://img.shields.io/badge/-C++-blue?logo=cplusplus" />
+
+Things I use
+ <img alt="Unity" src="https://img.shields.io/badge/-C++-blue?logo=cplusplus" />
+ <img alt="Unreal" src="https://img.shields.io/badge/-C++-blue?logo=cplusplus" />
+ <img alt="Git" src="https://img.shields.io/badge/-C++-blue?logo=cplusplus" />
+ <img alt="Visual Basic" src="https://img.shields.io/badge/-C++-blue?logo=cplusplus" />
 
 
 https://img.shields.io/badge/-C++-blue?logo=cplusplus
