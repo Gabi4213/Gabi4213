@@ -12,8 +12,8 @@ Things I code with
  <img alt="C#" src="https://img.shields.io/badge/-Csharp-764ABC?style=flat-square&logo=csharp&logoColor=whites" />
  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
- <img alt="CSS" src="https://img.shields.io/badge/-C++-blue?logo=cplusplus" />
- <img alt="Java" src="https://img.shields.io/badge/-C++-blue?logo=cplusplus" />
+ <img alt="CSS" src="https://img.shields.io/badge/-css-blue?logo=css" />
+ <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
 
 Things I use
  <img alt="Unity" src="https://img.shields.io/badge/-C++-blue?logo=cplusplus" />
