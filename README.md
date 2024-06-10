@@ -22,6 +22,9 @@ Here's a bit about me:
  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white)
 
+ ### Things Im currenty working on ###
+Experience real-time weather simulation by entering any location to see an instant visualization of the current weather conditions. 
+The program accurately simulates various elements such as cloud density, temperature, wind speed, and precipitation.
 
  
 
