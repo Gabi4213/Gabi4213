@@ -7,7 +7,7 @@ Here's a bit about me:
 * Ex Intern Gameplay Programmer at Microsoft/Xbox/Rare Studios working on Sea of Thieves.
 + Previously Worked with LEGO, Logitech, Unity and Snapchat.
 
-**Things I code with**
+<h3>Things I code with<h3>
 <p>
  <img alt="C++" src="https://img.shields.io/badge/-C++-blue?logo=cplusplus" />
  <img alt="C#" src="https://img.shields.io/badge/-Csharp-764ABC?style=flat-square&logo=csharp&logoColor=whites" />
@@ -18,7 +18,7 @@ Here's a bit about me:
  ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat-squaree&logo=swift&logoColor=white)
  <p>
 
-**Things I use**
+<h3>Things I use<h3>
 <p>
  ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white)
  ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat-square&logo=unrealengine&logoColor=white)
