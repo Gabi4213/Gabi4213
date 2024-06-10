@@ -26,6 +26,16 @@ Here's a bit about me:
 Experience real-time weather simulation by entering any location to see an instant visualization of the current weather conditions. 
 The program accurately simulates various elements such as cloud density, temperature, wind speed, and precipitation.
 
+Progress so far:
+- [x] Accurate Cloud simulation
+- [x] Real-Time weather data retrival
+- [ ] Rain Simulation
+- [ ] Wind Simulation
+- [ ] Visual teperature representation
+- [ ] Geographical area model 
+
+
+
  
 
 
