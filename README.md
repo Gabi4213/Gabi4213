@@ -7,7 +7,7 @@ Here's a bit about me:
 * Ex Intern Gameplay Programmer at Microsoft/Xbox/Rare Studios working on Sea of Thieves.
 + Previously Worked with LEGO, Logitech, Unity and Snapchat.
 
-Things I code with
+**Things I code with**
  <img alt="C++" src="https://img.shields.io/badge/-C++-blue?logo=cplusplus" />
  <img alt="C#" src="https://img.shields.io/badge/-Csharp-764ABC?style=flat-square&logo=csharp&logoColor=whites" />
  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -16,23 +16,13 @@ Things I code with
  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
  ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat-squaree&logo=swift&logoColor=white)
 
-Things I use
+**Things I use**
  ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white)
  ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat-square&logo=unrealengine&logoColor=white)
  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white)
 
 
-https://img.shields.io/badge/-C++-blue?logo=cplusplus
+ 
 
 
-<!--
-**Gabi4213/Gabi4213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 😎 I’m currently working on a real time weather simulator.
-- 🌱 I’m currently learning vulcan .o.
-- 📫 How to reach me: gabrielamaczynska4213@gmail.com
-- ⚡ Fun fact: ...
--->
