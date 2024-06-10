@@ -8,6 +8,7 @@ Here's a bit about me:
 + Previously Worked with LEGO, Logitech, Unity and Snapchat.
 
 **Things I code with**
+<p>
  <img alt="C++" src="https://img.shields.io/badge/-C++-blue?logo=cplusplus" />
  <img alt="C#" src="https://img.shields.io/badge/-Csharp-764ABC?style=flat-square&logo=csharp&logoColor=whites" />
  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -15,6 +16,7 @@ Here's a bit about me:
  <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
  ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat-squaree&logo=swift&logoColor=white)
+ <p>
 
 **Things I use**
  ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white)
