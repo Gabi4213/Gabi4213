@@ -9,7 +9,7 @@ Here's a bit about me:
 
 Things I code with
  <img alt="C++" src="https://img.shields.io/badge/-C++-blue?logo=cplusplus" />
- <img alt="C#" src="https://img.shields.io/badge/-C#-764ABC?style=flat-square&logo=csharp&logoColor=whites" />
+ <img alt="C#" src="https://img.shields.io/badge/-Csharp-764ABC?style=flat-square&logo=csharp&logoColor=whites" />
  <img alt="HTML 5" src="https://img.shields.io/badge/-C++-blue?logo=cplusplus" />
  <img alt="Python" src="https://img.shields.io/badge/-C++-blue?logo=cplusplus" />
  <img alt="CSS" src="https://img.shields.io/badge/-C++-blue?logo=cplusplus" />
