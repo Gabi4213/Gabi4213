@@ -26,6 +26,8 @@ Here's a bit about me:
 Experience real-time weather simulation by entering any location to see an instant visualization of the current weather conditions. 
 The program accurately simulates various elements such as cloud density, temperature, wind speed, and precipitation.
 
+![Clouds](https://github.com/Gabi4213/Gabi4213/assets/71651109/6c8f2e18-be23-4aab-976d-84028d0bdbef)
+
 Progress so far:
 - [x] Accurate Cloud simulation
 - [x] Real-Time weather data retrival
