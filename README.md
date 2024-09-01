@@ -31,9 +31,9 @@ The program accurately simulates various elements such as cloud density, tempera
 Progress so far:
 - [x] Accurate Cloud simulation
 - [x] Real-Time weather data retrival
-- [ ] Rain Simulation
-- [ ] Wind Simulation
-- [ ] Visual teperature representation
+- [x] Rain Simulation
+- [x] Wind Simulation
+- [x] Visual teperature representation
 - [ ] Geographical area model 
 
 
