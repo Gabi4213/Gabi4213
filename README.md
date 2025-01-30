@@ -28,12 +28,16 @@ The program accurately simulates various elements such as cloud density, tempera
 
 ![Clouds](https://github.com/Gabi4213/Gabi4213/assets/71651109/6c8f2e18-be23-4aab-976d-84028d0bdbef)
 
+Finished Product: https://www.youtube.com/watch?v=51W4eF3mQpw
+
+
 Progress so far:
 - [x] Accurate Cloud simulation
 - [x] Real-Time weather data retrival
 - [x] Rain Simulation
 - [x] Wind Simulation
 - [x] Visual teperature representation
+- [x] Post Processing based on weather
 - [ ] Geographical area model 
 
 
