@@ -23,25 +23,18 @@ Here's a bit about me:
  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white)
 
 ### Things Im currenty working on ###
-Experience real-time weather simulation by entering any location to see an instant visualization of the current weather conditions. 
-The program accurately simulates various elements such as cloud density, temperature, wind speed, and precipitation.
+MY own custom game/grpahics engine build in DX11. Currently the engine is still in development, and will be for a little while. 
+Though below is a list of its current progress and some features I plan on adding.
 
-![Clouds](https://github.com/Gabi4213/Gabi4213/assets/71651109/6c8f2e18-be23-4aab-976d-84028d0bdbef)
-
-Finished Product: https://www.youtube.com/watch?v=51W4eF3mQpw
-
+[![Watch the video](https://img.youtube.com/vi/faSjTu1xrWQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=faSjTu1xrWQ)
 
 Progress so far:
-- [x] Accurate Cloud simulation
-- [x] Real-Time weather data retrival
-- [x] Rain Simulation
-- [x] Wind Simulation
-- [x] Visual teperature representation
-- [x] Post Processing based on weather
-- [ ] Geographical area model 
-
-
-
- 
-
-
+- [x] Object Loading
+- [x] Component and Entity system
+- [x] Normal maps
+- [x] Specular Maps
+- [x] Post Processing such as Greyscale, Chromatic Abberation, Gaussian Blur etc
+- [x] Forward and Deferred rendering
+- [ ] Reword entities and add real-time adding/removing of components
+- [ ] Script editing during real-time
+- [ ] Asset loading during real-time
